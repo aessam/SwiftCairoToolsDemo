@@ -1,0 +1,3 @@
+swiftlint
+xcodebuild -scheme ToolsDemo build -target iOS
+

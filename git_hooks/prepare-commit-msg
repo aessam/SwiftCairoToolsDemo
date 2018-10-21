@@ -1,0 +1,1 @@
+echo "SwiftCairo for the win" >> $1
